@@ -1,1 +1,2 @@
 echo "hi fer"
+pnpm run lint

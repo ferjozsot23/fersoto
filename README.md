@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Personal Website Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is my personal website where I showcase my portfolio and projects.
 
-## Available Scripts
+## Description - Know me
 
-In the project directory, you can run:
+I'm Fernando Soto, a software engineering student with a focus on solving social problems. I enjoy getting involved in volunteer work aimed at improving communities in Ecuador and leveraging my technology skills to make a positive impact.
 
-### `npm start`
+## Install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository to your local machine:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    ```
+    git clone https://github.com/tu-usuario/tu-proyecto.git
+    ```
 
-### `npm test`
+2. Navigate to the project directory:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    ```
+    cd tu-proyecto
+    ```
 
-### `npm run build`
+3. Install dependencies using npm, yarn or pnpm:
+    ```
+    npm install
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Use
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To start the development server:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm start
+```
 
-### `npm run eject`
+This will automatically open the project in your default browser. If it doesn't, you can access it manually at [http://localhost:3000](http://localhost:3000).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Commits Conventions
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project uses Commits Conventions. Make sure you follow them when making your commits. Here are some examples of commit messages you can use:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-   `feat: Add new functionality`
+-   `fix: Fix a bug`
+-   `docs: Update documentation`
+-   `style: Changes that do not affect the code (formatting, whitespace, etc.)`
+-   `refactor: Refactor existing code`
+-   `test: Add or modify tests`
+-   `chore: Maintenance tasks, dependency updates, etc.`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Dependencies
 
-## Learn More
+-   React: ^18.2.0
+-   React-DOM: ^18.2.0
+-   React-Scripts: 5.0.1
+-   Web-Vitals: ^2.1.4
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contribution
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you want to contribute to this project, follow these steps:
 
-### Code Splitting
+1. Fork the project
+2. Create a new branch (`git checkout -b feature/nueva-funcionalidad`)
+3. Make your changes and commit (`git commit -am 'feat: Agregar nueva funcionalidad'`)
+4. Push the branch (`git push origin feature/nueva-funcionalidad`)
+5. Create a new Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+This project is licensed under the MIT License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions or suggestions, please contact me at [fernando.soto@epn.edu.ec](fernando.soto@epn.edu.ec).
